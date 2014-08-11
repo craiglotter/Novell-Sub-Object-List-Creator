@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novell Sub Object List Creator", "Novell Sub Object List Creator.csproj", "{94C8C059-6600-4071-BFAF-0EBD95542AAC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{94C8C059-6600-4071-BFAF-0EBD95542AAC}.Debug.ActiveCfg = Debug|.NET
+		{94C8C059-6600-4071-BFAF-0EBD95542AAC}.Debug.Build.0 = Debug|.NET
+		{94C8C059-6600-4071-BFAF-0EBD95542AAC}.Release.ActiveCfg = Release|.NET
+		{94C8C059-6600-4071-BFAF-0EBD95542AAC}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
